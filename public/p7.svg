@@ -1,0 +1,47 @@
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern0_3208_786" patternUnits="userSpaceOnUse" width="100" height="100">
+      <rect width="100" height="100" fill="#f8f9fa" />
+    </pattern>
+    <style>
+      .navbar { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; fill: #fff; }
+      .title { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; fill: #333; }
+      .subtitle { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; fill: #555; }
+      .button { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; fill: #fff; }
+      .footer { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; fill: #777; }
+    </style>
+  </defs>
+  <rect x="14.899" y="0.137" width="449.906" height="319.73" rx="10" transform="matrix(0.998947, 0.045886, -0.045886, 0.998947, 16.153704, 40.405891)" fill="url(#pattern0_3208_786)"></rect>
+  <g transform="matrix(0.998947, 0.045886, -0.045886, 0.998947, 16.153704, 40.405891)">
+    <!-- Background -->
+    <rect x="14.899" y="0.137" width="449.906" height="319.73" rx="10" fill="#fff" stroke="#ddd" stroke-width="2"/>
+    
+    <!-- Navbar -->
+    <rect x="14.899" y="0.137" width="449.906" height="50" fill="#007bff"/>
+    <text x="60" y="35" class="navbar" text-anchor="start" alignment-baseline="middle">Home</text>
+    <text x="130" y="35" class="navbar" text-anchor="start" alignment-baseline="middle">About</text>
+    <text x="210" y="35" class="navbar" text-anchor="start" alignment-baseline="middle">Services</text>
+    <text x="310" y="35" class="navbar" text-anchor="start" alignment-baseline="middle">Contact</text>
+
+    <!-- Title -->
+    <text x="50%" y="90" class="title" text-anchor="middle" alignment-baseline="middle">GatherGram</text>
+
+    <!-- Subtitle -->
+    <text x="50%" y="130" class="subtitle" text-anchor="middle" alignment-baseline="middle">
+     Streamline event planning
+    </text>
+
+    <!-- Buttons -->
+    <rect x="90" y="170" width="120" height="40" rx="5" fill="#28a745" />
+    <text x="150" y="195" class="button" text-anchor="middle" alignment-baseline="middle">Get Started</text>
+
+    <rect x="240" y="170" width="120" height="40" rx="5" fill="#17a2b8" />
+    <text x="300" y="195" class="button" text-anchor="middle" alignment-baseline="middle">Learn More</text>
+
+    <!-- Footer -->
+    <rect x="14.899" y="290" width="449.906" height="30" fill="#f1f1f1" />
+    <text x="50%" y="310" class="footer" text-anchor="middle" alignment-baseline="middle">
+      © 2024 GatherGram. All rights reserved.
+    </text>
+  </g>
+</svg>
