@@ -30,7 +30,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My tech stack",
-    description: "Focused on full-stack development (MERN), cloud infra, and AI/ML with a growing interest in secure systems and adversarial robustness",
+    description: "I constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
