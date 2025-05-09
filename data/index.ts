@@ -10,7 +10,7 @@ export const gridItems = [
   {
     id: 1,
     title: "Workspace: Mac, Linux",
-    description: "",
+    description: "Unix-based workflows with custom scripting for maximum productivity",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
