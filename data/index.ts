@@ -10,7 +10,6 @@ export const gridItems = [
   {
     id: 1,
     title: "Workspace: Mac, Linux",
-    description: "Unix-based workflows with custom scripting for maximum productivity",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -182,14 +181,14 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "AI Intern | UF College of Medicine, QPSi",
-    desc: "Working on real-time healthcare datasets using probabilistic graph modeling techniques such as Markov Chains and Gaussian Processes with PyTorch Geometric.",
+    title: "AI Intern",
+    desc: "UF college of Medicine, QPSi",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Software Engineer | Vinjumuri Innovations",
+    title: "Software Engineer at Vinjumuri Innovations",
     desc: "Built full-stack applications using React and Next.js. Developed backend APIs and real-time interfaces in Node.js for smart energy telemetry systems.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
