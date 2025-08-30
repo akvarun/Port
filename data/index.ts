@@ -181,7 +181,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "AI Intern",
+    title: "AI/ML Intern",
     desc: "UF college of Medicine, QPSi",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
